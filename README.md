@@ -44,6 +44,22 @@ This project demonstrates a production-ready automation pipeline that collects l
 
 ---
 
+### Screenshots
+
+**Frontend Dashboard:**
+![Frontend Dashboard](screenshots/Frontend%20Dashboard.png)
+*Search interface with city autocomplete, category selection, and real-time results*
+
+**n8n Workflow:**
+![n8n Workflow](screenshots/n8n%20Workflow.png)
+*Complete workflow showing data flow from webhook to Google Sheets*
+
+**Google Sheets Export:**
+![Google Sheets Export](screenshots/Google%20Sheets%20Export.png)
+*Automated data export with proper formatting and timestamps*
+
+---
+
 ### Tech Stack
 
 - **Backend/Workflow:** n8n (workflow automation)
@@ -62,21 +78,6 @@ This project demonstrates a production-ready automation pipeline that collects l
 - ✅ **Multiple Export Options** – CSV download + Google Sheets integration
 - ✅ **Modern Frontend** – Next.js dashboard with city autocomplete and real-time results
 - ✅ **Test Coverage** – Unit tests with 98% coverage on utility functions
-
-### Screenshots
-
-**Frontend Dashboard:**
-![Frontend Dashboard](screenshots/Frontend%20Dashboard.png)
-*Search interface with city autocomplete, category selection, and real-time results*
-
-**n8n Workflow:**
-![n8n Workflow](screenshots/n8n%20Workflow.png)
-*Complete workflow showing data flow from webhook to Google Sheets*
-
-**Google Sheets Export:**
-![Google Sheets Export](screenshots/Google%20Sheets%20Export.png)
-*Automated data export with proper formatting and timestamps*
-
 
 ## Quick Start
 
