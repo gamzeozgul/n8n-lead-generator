@@ -1,0 +1,29 @@
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+body {
+  background: radial-gradient(circle at top, #1f2937, #0f172a 60%, #020617);
+  color: #e2e8f0;
+  font-family: var(--font-geist-sans, Arial, sans-serif);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
